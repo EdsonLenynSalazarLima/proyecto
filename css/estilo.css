@@ -1,0 +1,192 @@
+
+.pagina{
+    background-color: rgb(2, 120, 199);
+    width: 2481px; margin: 0 auto;
+    height: 3508px;
+    
+    
+}
+header{
+    height: 508px;
+    width: 2481px;
+}
+
+.imagen{
+    /*background-color: brown;*/
+    width: 814px;
+    height: 508px;
+    margin-left: 20px;
+    float: left;
+    
+
+}
+img{
+    width: 814px;
+    height: 400px;
+    margin-top: 108px;
+    
+    
+    
+    
+}
+.titulo-grande{
+    /*background-color: chartreuse;*/
+    width: 1628px;
+    height: 508px;
+    margin-right: 19px;
+    float: left;
+    
+    
+}
+.nombre{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 900;
+    font-size: 80px;
+    margin-left: 40px;
+    margin-top: 200px;
+}
+.profecion{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-ser;
+    color: white;
+    font-weight: 100;
+    font-size: 40px;
+    margin-left: 40px;
+    
+}
+.contenedor{
+    width: 2481px;
+    height: 2800px;
+    margin-left: 20px;
+    margin-right: 19px;
+    
+}
+aside{
+    width: 814px;
+    height: 2800px;
+    float: left;
+
+}
+
+.bloque1{
+    background-color: rgb(226, 226, 226);
+    width: 814px;
+    height: 2800px;
+    float: left;
+}
+
+section{
+    
+    width: 1628px;
+    height: 2800px;
+    float: left;
+
+}
+#primero-art{
+    width: 1628px;
+    height: 1400px;
+    float: left;
+    
+
+
+}
+.bloque2{
+    background-color: deepskyblue;
+    width: 814px;
+    height: 1400px;
+    float: left;
+}
+
+
+.bloque3{
+    background-color: deepskyblue;
+    width: 814px;
+    height: 1400px;
+    float: left;
+
+}
+#segundo-art{
+    
+    width: 1628px;
+    height: 700px;
+    float: left;
+}
+.bloque4{
+    background-color: deepskyblue;
+    width: 1628px;
+    height: 700px;
+    float: left;
+    
+
+    
+
+}
+#tercer-art{
+    float: left;
+    
+    width: 1628px;
+    height: 700px;
+}
+
+.bloque5{
+    background-color: deepskyblue;
+    width: 814px;
+    height: 700px;
+    float: left;
+    
+}
+
+    
+
+.bloque6{
+    background-color: deepskyblue;
+    width: 814px;
+    height: 700px;
+    float: left;
+}
+
+
+.titulo{
+    font-weight: 600;
+    font-size: 60px;
+    margin-top: 80px;
+    margin-left: 60px;
+} 
+.contenido{
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    font-size: 40px;
+}
+.sub-titulo{
+    font-weight: 600;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 60px;
+} 
+footer{
+    width: 2481px;
+    height: 200px;
+
+}
+.piedepagina{
+    background-color: rgb(39, 37, 37);
+    width: 2481px;
+    height: 150px;
+    margin-top: 10px;
+}
+.contacto{
+    text-align: center;
+    color: rgb(248, 211, 2);
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+.web{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-weight: 800;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
